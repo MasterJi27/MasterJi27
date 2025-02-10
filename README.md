@@ -29,6 +29,21 @@
   <a href="https://www.credly.com/badges/10fb5730-6356-40bc-a0ef-7f8199462366/public_url" target="_blank">
     <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity Issued by Cisco" width="100" height="100"/> 
   </a>
+  <a href="https://www.credly.com/badges/10fb5730-6356-40bc-a0ef-7f8199462366/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png" alt="New Badge 1" width="100" height="100"/> 
+  </a>
+  <a href="https://www.credly.com/badges/10fb5730-6356-40bc-a0ef-7f8199462366/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/f469072b-7e9a-4961-8096-292853f063e7/image.png" alt="New Badge 2" width="100" height="100"/> 
+  </a>
+  <a href="https://media.licdn.com/dms/image/v2/D562DAQGDpHF43agCRQ/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1732646030338?e=1739822400&v=beta&t=-p0jmmsboJJWvgztlQtu_1ZsCzcdj4LgaoDw6XTDVhc" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/D562DAQGDpHF43agCRQ/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1732646030338?e=1739822400&v=beta&t=-p0jmmsboJJWvgztlQtu_1ZsCzcdj4LgaoDw6XTDVhc" alt="LinkedIn Badge" width="100" height="100"/> 
+  </a>
+  <a href="https://www.credly.com/badges/10fb5730-6356-40bc-a0ef-7f8199462366/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" alt="New Badge 3" width="100" height="100"/> 
+  </a>
+  <a href="https://www.credly.com/badges/10fb5730-6356-40bc-a0ef-7f8199462366/public_url" target="_blank">
+    <img src="https://images.credly.com/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" alt="New Badge 4" width="100" height="100"/> 
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
