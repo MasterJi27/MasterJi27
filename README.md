@@ -19,13 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raghavkathuria0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="raghavkathuria0" height="30" width="40" /></a>
-</p>
-
-<p align="left">
-  <a href="https://www.credly.com/badges/10fb5730-6356-40bc-a0ef-7f8199462366/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/10fb5730-6356-40bc-a0ef-7f8199462366/Introduction_to_Cybersecurity.png" alt="Introduction to Cybersecurity Issued by Cisco" width="100" height="100"/> 
-  </a>
+<a href="https://linkedin.com/in/raghavkathuria0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghavkathuria0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
