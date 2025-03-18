@@ -35,19 +35,29 @@
   <a href="https://www.credly.com/badges/10fb5730-6356-40bc-a0ef-7f8199462366/public_url" target="_blank">
     <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Cisco Cybersecurity" width="100" height="100"/>
   </a>
+  <a href="https://www.credly.com/badges/6a84d99e-e1c5-4c2b-9a04-7cf88e7b6d9e/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" alt="Oracle Cloud Certification" width="100" height="100"/>
+  </a>
   <a href="https://www.credly.com/badges/10fb5730-6356-40bc-a0ef-7f8199462366/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" alt="Cloud Certification" width="100" height="100"/>
+    <img src="https://images.credly.com/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" alt="Microsoft Certification" width="100" height="100"/>
   </a>
 </p>
 
 <h3 align="left">🛠️ DevOps & Cloud Tools</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="AWS" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="40" height="40" />
 </p>
+
+<h3 align="left">🚀 Featured Projects</h3>
+<ul>
+  <li><b>AI Image Generation using Stable Diffusion & ComfyUI</b> - Creating stunning AI-generated images using Stable Diffusion, optimized with ComfyUI.</li>
+  <li><b>Cloud Infrastructure Automation</b> - Automated multi-cloud infrastructure deployment using Terraform and AWS CloudFormation.</li>
+  <li><b>CI/CD Pipeline Setup</b> - Built and deployed secure pipelines using GitHub Actions and AWS CodePipeline for faster and efficient delivery.</li>
+</ul>
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masterji27&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
