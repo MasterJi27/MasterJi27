@@ -1,67 +1,73 @@
-<h1 align="center">Hi 👋, I'm Raghav Kathuria</h1>
-<h3 align="center">🚀 DevOps | Cloud | Building Reliable and Scalable Systems ☁️</h3>
+<div align="center">
+  <a href="https://github.com/MasterJi27">
+    <!-- You can add a logo or profile picture here if you like -->
+    <!-- <img src="URL_TO_YOUR_LOGO" alt="Logo" width="100" height="100"> -->
+  </a>
+  <h1>Raghav Kathuria</h1>
+  <p>
+    <b>DevOps & MLOps Engineer | Cloud Architect</b>
+  </p>
+  <p>
+    Automating and scaling cloud infrastructure for data-intensive applications.
+  </p>
+  
+  <div>
+    <a href="https://linkedin.com/in/raghavkathuria0" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:Raghavkathuria69@outlook.com">
+      <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
+    </a>
+  </div>
+</div>
 
-<p align="center">Automating, Scaling, and Securing Cloud Infrastructure | Bridging DevOps and Cloud Technologies | Cloud Architect in the Making 📡</p>
+---
+
+### About Me
+I am a Cloud and DevOps Engineer with a strong focus on building resilient, scalable, and automated systems. My passion lies in bridging the gap between infrastructure and machine learning, enabling teams to deploy and manage data-driven applications with confidence. I believe in the "automate everything" philosophy and leverage Infrastructure as Code (IaC) and CI/CD to create predictable and efficient development lifecycles.
+
+---
+
+### 🛠️ My Toolkit
+
+| **Category**                | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Cloud Platforms**         | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=flat&logo=ibmcloud&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)                                                                           |
+| **Automation, IaC & CI/CD** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat&logo=aws-cloudformation&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)                                     |
+| **Containers & Orchestration**  | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)                                                                                                                                                                                                                                                                          |
+| **Languages & Frameworks**  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
+
+---
+
+### 🚀 Selected Projects
+
+| Project                                                                                                                  | Description                                                                                                                                                                                                                            | Key Technologies                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| **[AI-Based Real Estate Valuation](https://github.com/MasterJi27/AI-Based-Real-Estate-Valuation-System)**                 | An end-to-end MLOps workflow for a property valuation model. The project covers data ingestion, feature engineering, model training/evaluation, and deployment via a web interface.                                                       | `Python`, `Scikit-learn`, `Pandas`, `Streamlit`                                    |
+| **[Collaborative ML System (Internship)](https://github.com/Springboard-Internship-2025/AI-Based-Real-Estate-Valuation-System_August_2025)** | A team-based project focused on building a reproducible and robust ML system. Emphasized version control, collaborative coding standards, and addressing real-world data challenges.                                           | `Git`, `Python`, `Data Pipelines`                                                  |
+| **[Cloud-Native Foundation on IBM Cloud](https://github.com/MasterJi27/IBM-Cloud-Project)**                              | Explored core cloud services and deployment patterns on IBM Cloud. This project served as a hands-on lab for understanding multi-cloud architecture principles and scalable application design.                                         | `IBM Cloud`, `Cloud Services`, `Scalability`                                       |
+
+---
+
+### 🌱 Current Focus
+
+Right now, I'm deepening my expertise in:
+- **Advanced Kubernetes:** Exploring production-grade topics like GitOps (ArgoCD/Flux), service meshes, and security hardening.
+- **MLOps Maturity:** Implementing robust model monitoring, automated retraining pipelines, and feature stores.
+- **Cloud Cost Optimization:** Developing strategies for building cost-aware infrastructure and leveraging cloud-native savings models.
+
+---
+
+### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=masterji27&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MasterJi27&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=MasterJi27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterJi27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<h3 align="center">🌟 Connect with me</h3>
+---
+
 <p align="center">
-  <a href="https://linkedin.com/in/raghavkathuria0" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+  Let's connect! I'm always open to discussing new ideas and collaborating on challenging projects.
 </p>
-
-<h3 align="left">💼 What I'm Working On</h3>
-<ul>
-  <li>☁️ <b>Deploying AI/ML Models on AWS</b></li>
-  <li>⚙️ <b>Automating Infrastructure with Terraform & AWS CloudFormation</b></li>
-  <li>🔄 <b>CI/CD Pipelines using GitHub Actions & AWS CodePipeline</b></li>
-</ul>
-
-<h3 align="left">🌱 What I'm Learning</h3>
-<p>AWS, Azure, GCP, Docker, Kubernetes, Terraform, CI/CD</p>
-
-<h3 align="left">💬 Ask Me About</h3>
-<p>DevOps Practices, Cloud Infrastructure, AWS, Azure, Kubernetes, Docker, CI/CD Pipelines</p>
-
-<h3 align="left">📧 Contact Me</h3>
-<p>Raghavkathuria69@outlook.com</p>
-
-<h3 align="left">🏆 Certifications</h3>
-<p align="left">
-  <a href="https://www.credly.com/badges/10fb5730-6356-40bc-a0ef-7f8199462366/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Cisco Cybersecurity" width="100" height="100"/>
-  </a>
-  <a href="https://www.credly.com/badges/6a84d99e-e1c5-4c2b-9a04-7cf88e7b6d9e/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" alt="Oracle Cloud Certification" width="100" height="100"/>
-  </a>
-  <a href="https://www.credly.com/badges/10fb5730-6356-40bc-a0ef-7f8199462366/public_url" target="_blank">
-    <img src="https://images.credly.com/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" alt="Microsoft Certification" width="100" height="100"/>
-  </a>
-</p>
-
-<h3 align="left">🛠️ DevOps & Cloud Tools</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="40" height="40" />
-</p>
-
-<h3 align="left">🚀 Featured Projects</h3>
-<ul>
-  <li><b>AI Image Generation using Stable Diffusion & ComfyUI</b> - Creating stunning AI-generated images using Stable Diffusion, optimized with ComfyUI.</li>
-  <li><b>Cloud Infrastructure Automation</b> - Automated multi-cloud infrastructure deployment using Terraform and AWS CloudFormation.</li>
-  <li><b>CI/CD Pipeline Setup</b> - Built and deployed secure pipelines using GitHub Actions and AWS CodePipeline for faster and efficient delivery.</li>
-</ul>
-
-<h3 align="left">📊 GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masterji27&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masterji27&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masterji27&" alt="GitHub Streak" /></p>
-
-<h3 align="center">🚀 Building the Future of DevOps and Cloud Infrastructure</h3>
